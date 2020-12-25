@@ -9,3 +9,4 @@ for  i in range (0,n):
   sum=sum+x
 print("Array is :",l)
 print("Average of elements =",sum/n)
+print("in dev branch")
